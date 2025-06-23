@@ -5,20 +5,20 @@
 ![Screenshot 2025-06-23 154705](https://github.com/user-attachments/assets/41dcf8c4-2cb8-4cc5-8e72-4e27368fb28b)
 A simple SaaS-style contact form built using HTML, Tailwind CSS, Node.js, Express, and MongoDB.
 
-###Features###
+#  Features
 Responsive contact form UI
 Tailwind CSS for styling
 Stores submitted leads in MongoDB
 Shows success message on submission
 Email notifications (optional)
 
-###Technologies Used###
+# Technologies Used
 HTML, Tailwind CSS
 Node.js, Express
 MongoDB Atlas
 
-###How to Run###
+# How to Run
 Clone the repository
 
-###Run the backend:###
+# Run the backend:
 node server.js
